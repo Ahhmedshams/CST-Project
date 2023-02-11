@@ -1,0 +1,122 @@
+
+.main{
+    width: 360px;
+    height: 500px;
+    margin: 80px auto;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+}
+h1{
+    text-align: center;
+    padding-top: 15px;
+}
+
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+.label{
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+input{
+    width: 100%;
+    padding: 5px;
+    border: none;
+    border: 1px solid #c49b62;
+    border-radius: 5px;
+}
+input[type="submit"]{
+    width: 312px;
+    height: 35px;
+    margin-top: 30px;
+    text-align: center;
+    border: none;
+    color: white;
+    background: #c49b62;
+    font-size: 18px;
+    cursor: pointer;
+}
+input[type="submit"]:hover{
+    background-color: white;
+    color:#c49b62 ;
+}
+
+.icons{
+    width: 320px;
+    margin:15px auto;
+    text-align: center;
+}
+.fb,
+.google{
+    background-color: white;
+    display: inline-block;
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    width: 120px;
+    height: 35px;
+    margin: 10px;
+    text-align: left;
+    overflow: hidden;
+}
+img{
+    width: 15px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#facebook,
+#google{
+    text-decoration: none;
+    font-size: 16px;
+}
+
+#facebook{
+    color: #4267B2;
+    font-weight: bold;
+    margin-left: 2px;
+    padding-top: 3px;
+}
+#google{
+    color:#DB4437 ;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: 18px;
+}
+
+.reset {
+    float: left;
+    width: 100%;
+    text-decoration: none;
+    color: #c49b62;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 11px;
+  }
+.reset:hover{
+    color: white;
+}
+  .or,
+.footer{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #b5b2b2;
+}
+.newsign{
+    font-size: 15px;
+    color: #c49b62;
+    text-align: center;
+    text-decoration: none;
+}
+.newsign:hover{
+    color: white;
+}
+.seperator {
+    float: left;
+    width: 100%;
+    border-top: 1px solid #ccc;
+    text-align: center;
+    margin: 20px auto;
+    
+  }

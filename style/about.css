@@ -1,0 +1,51 @@
+
+table{
+    background-color: black;
+    color: white;
+    width: 700px;
+    margin: 25px auto;
+    border-radius: 9px;
+    border: 1px solid black;
+}
+
+img{
+    width: 100%;
+    border-radius: 4px;
+}
+h4{
+    font-size: 20px;
+}
+.first-row{
+    text-align: center;
+    padding: 15px;
+
+}
+.description{
+    padding: 20px;
+}
+.click{
+    width:70px;
+    height: 25px;
+    background-color: #c49b62;
+    border: 1px solid #c49b62;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 7px;
+    cursor: pointer;
+    
+}
+.link-about:hover,
+.click:hover{
+    background-color: white;
+    color: #c49b62;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+td { 
+    padding:0px;
+    margin: 0px;
+    border-radius: 4px;
+}

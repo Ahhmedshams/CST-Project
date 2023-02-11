@@ -1,0 +1,37 @@
+body{
+    color: white;
+}
+.first{
+    width: 800px;
+    margin: 80px auto;
+    text-align: center;
+    border-radius: 8px;
+    background-color: black;
+}
+.second{
+    text-align: center;
+}
+img{
+    width: 100%;
+    border-radius: 8px;
+}
+.price{
+    color: #c49b62;
+    font-size: 19px;
+    margin-left: 16px;
+}
+.add{
+    background-color: #c49b62;
+    float: right;
+    width: 120px;
+    height: 30px;
+    margin-right: 25px;
+    padding-top: 13px;
+    text-align: center;
+    border-radius: 4px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
